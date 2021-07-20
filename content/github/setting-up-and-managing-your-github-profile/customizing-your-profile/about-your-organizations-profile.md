@@ -1,5 +1,5 @@
 ---
-title: About your organization's profile
+title: About your organization's e
 intro: Your organization's profile page shows basic information about your organization.
 redirect_from:
   - /articles/about-your-organization-s-profile
